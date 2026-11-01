@@ -1,0 +1,873 @@
+{
+  "metadata": {
+    "name": "Octavian Mihai Ghiță",
+    "orcid": "0009-0004-2254-2596",
+    "source": "Criterii_CNATDCU_2026_Ghita.xlsx / sheet PROF",
+    "note": "Source document classifications are preserved; entries may overlap with other public bibliographies. ORCID publication metadata was not accessible."
+  },
+  "publications": [
+    {
+      "id": 1,
+      "source_row": 40,
+      "year": 2025,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Development of a fuzzy logic-based method for estimating the flight path of an unmanned aerial vehicle (UAV) required for the unmanned traffic management (UTM) system",
+      "reference": "Dumitrescu, C.; Ghiță, O. \"Development of a fuzzy logic-based method for estimating the flight path of an unmanned aerial vehicle (UAV) required for the unmanned traffic management (UTM) system\", National Institute of Optoelectronics, pg. 382 - 391, 2025, WOS:001571937100011, FI: 0.75",
+      "doi": null
+    },
+    {
+      "id": 2,
+      "source_row": 41,
+      "year": 2006,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Metodă de măsurare a potențialului de suprafață a membranei de teflon pentru microfoanele cu electreți",
+      "reference": "Ghiță, Octavian Mihai, \"Metodă de măsurare a potențialului de suprafață a membranei de teflon pentru microfoanele cu electreți\" / \"A Method of Measuring Teflon Membrane Surface Potential for Electret Microphones\", Revista de Chimie, Vol. 57, Nr. 1, pp. 48–51, 2006, ISSN 0034-7752.",
+      "doi": null
+    },
+    {
+      "id": 3,
+      "source_row": 42,
+      "year": 2007,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Studiul naturii adezivilor utilizați în tehnologii de fixare a traductoarelor tensometrice rezistive – TTR",
+      "reference": "Ghiță, Octavian Mihai; Schuster, H. G., \"Studiul naturii adezivilor utilizați în tehnologii de fixare a traductoarelor tensometrice rezistive – TTR\", Revista de Chimie, Vol. 58, Nr. 7, p. 620, 2007, ISSN 0034-7752. ISI/WoS conform CV.",
+      "doi": null
+    },
+    {
+      "id": 4,
+      "source_row": 43,
+      "year": 2007,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Comportarea electreților în condiții climatice grele și estimarea duratei lor de viață",
+      "reference": "Ghiță, Octavian Mihai, \"Comportarea electreților în condiții climatice grele și estimarea duratei lor de viață\" / \"Behaviour of Electrets in Difficult Climatic Conditions and Estimation of Their Life\", Revista de Chimie, Vol. 58, Nr. 3, pp. 364–367, 2007, ISSN 0034-7752. ISI/WoS conform CV.",
+      "doi": null
+    },
+    {
+      "id": 5,
+      "source_row": 44,
+      "year": 2008,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "GPS Oriented System for Evaluation of Energetic Potential of Hydroelectric Dam Lakes",
+      "reference": "Grigorescu, Sorin Dan; Cepișcă, Costin; Ghiță, Octavian Mihai; Covrig, Mircea; Grigorescu, Elena, \"GPS Oriented System for Evaluation of Energetic Potential of Hydroelectric Dam Lakes\", 4th IASME/WSEAS International Conference on Water Resources, Hydraulics & Hydrology, 2008, p. 218 et seq.",
+      "doi": null
+    },
+    {
+      "id": 6,
+      "source_row": 45,
+      "year": 2008,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Intelligent Control System for Monitoring Drilling Process",
+      "reference": "Grigorescu, Sorin Dan; Cepișcă, Costin; Ghiță, Octavian Mihai; Potarniche, Ion, \"Intelligent Control System for Monitoring Drilling Process\", 7th WSEAS International Conference on Computational Intelligence, Man-Machine Systems and Cybernetics (CIMMACS '08), Cairo, Egypt, 2008, pp. 451–460, ISBN 978-960-474-049-9, ISSN 1790-5117. ISI Conference Proceedings Citation Index – WoS.",
+      "doi": null
+    },
+    {
+      "id": 7,
+      "source_row": 46,
+      "year": 2009,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Numerical Simulations for Energy Calculation in Power Measurements",
+      "reference": "Grigorescu, Sorin Dan; Cepișcă, Costin; Potarniche, Ion; Ghiță, Octavian Mihai; Covrig, Mircea; Grigorescu, Elena, \"Numerical Simulations for Energy Calculation in Power Measurements\", Proceedings of the European Computing Conference (ECC'09) & 3rd International Conference on Computational Intelligence (CI'09), Tbilisi, Georgia, 2009, pp. 152–158, ISBN 978-960-474-088-8, ISSN 1790-5117.",
+      "doi": null
+    },
+    {
+      "id": 8,
+      "source_row": 47,
+      "year": 2010,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Measurement of Teflon Membrane Characteristics Used in Electret Microphones",
+      "reference": "Ghiță, Octavian Mihai; Grigorescu, Sorin Dan, \"Measurement of Teflon Membrane Characteristics Used in Electret Microphones\", Revista de Chimie, Vol. 61, Nr. 1, pp. 45–48, 2010, ISSN 0034-7752. ISI/WoS conform CV.",
+      "doi": null
+    },
+    {
+      "id": 9,
+      "source_row": 48,
+      "year": 2010,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "System Monitoring of Energy Quality for Wind Power Generators",
+      "reference": "Grigorescu, Sorin Dan; Popescu, M.; Ghiță, Octavian Mihai; Lăzăroiu, George Cristian, \"System Monitoring of Energy Quality for Wind Power Generators\", 14th International Conference on Harmonics and Quality of Power (ICHQP 2010), Bergamo, Italy, 2010, p. 1070 et seq., IEEE article no. 5625453. Scopus confirmat;",
+      "doi": null
+    },
+    {
+      "id": 10,
+      "source_row": 49,
+      "year": 2010,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Transient Analysis of DG Interfaced Low Voltage DC System",
+      "reference": "Lăzăroiu, George Cristian; Tironi, Enrico; Popescu, M. O.; Ghiță, Octavian Mihai; Dumbravă, Virgil, \"Transient Analysis of DG Interfaced Low Voltage DC System\", 14th International Conference on Harmonics and Quality of Power (ICHQP 2010), Bergamo, Italy, 2010, IEEE article no. 5625445.",
+      "doi": null
+    },
+    {
+      "id": 11,
+      "source_row": 50,
+      "year": 2011,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "LabVIEW Interface for Oil Drilling Rigs",
+      "reference": "Grigorescu, Sorin Dan; Ghiță, Octavian Mihai; Covrig, Mircea; Potarniche, Ion; Gheamalinga, M. C., \"LabVIEW Interface for Oil Drilling Rigs\", 7th International Symposium, 2011.",
+      "doi": null
+    },
+    {
+      "id": 12,
+      "source_row": 51,
+      "year": 2011,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "High Voltage Transformer Insulation Evaluation Using a Measurement Expert System",
+      "reference": "Grigorescu, Sorin Dan; Ghiță, Octavian Mihai; Covrig, Mircea; Potarniche, Ion, \"High Voltage Transformer Insulation Evaluation Using a Measurement Expert System\", 7th International Symposium, Virtual Instrumentation, 2011, pp. 448–453.",
+      "doi": null
+    },
+    {
+      "id": 13,
+      "source_row": 52,
+      "year": 2011,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Measurement Data Analyses Using an Expert System for Oil-Paper Insulation Evaluation",
+      "reference": "Grigorescu, Sorin Dan; Ghiță, Octavian Mihai; Potarniche, Ion; Covrig, Mircea, \"Measurement Data Analyses Using an Expert System for Oil-Paper Insulation Evaluation\", IEEE Instrumentation and Measurement Technology Conference (I2MTC 2011), 2011, pp. 765–770, IEEE.",
+      "doi": null
+    },
+    {
+      "id": 14,
+      "source_row": 53,
+      "year": 2011,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Computer Added Monitoring of Drilling Rig Systems",
+      "reference": "Grigorescu, Sorin Dan; Ghiță, Octavian Mihai; Cepișcă, Costin; Potarniche, Ion; Covrig, Mircea, \"Computer Added Monitoring of Drilling Rig Systems\", IEEE Instrumentation and Measurement Technology Conference (I2MTC 2011), 2011, p. 1403 et seq., IEEE.",
+      "doi": null
+    },
+    {
+      "id": 15,
+      "source_row": 54,
+      "year": 2013,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Health Monitoring Solution Using Dedicated ZigBee Sensor Network",
+      "reference": "Grigorescu, Sorin Dan; Ghiță, Octavian Mihai; Bănică, Cosmin Karl; Potlog, S.; Paraschiv, A. M., \"Health Monitoring Solution Using Dedicated ZigBee Sensor Network\", 8th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2013, DOI: 10.1109/ATEE.2013.6563529, IEEE. Scopus/INSPEC confirmat;",
+      "doi": "10.1109/ATEE.2013.6563529"
+    },
+    {
+      "id": 16,
+      "source_row": 55,
+      "year": 2013,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Power Quality Monitoring Systems for Smart Grid Networks",
+      "reference": "Ghiță, Octavian Mihai; Grigorescu, Sorin Dan; Cepișcă, Costin; Vintea, Adela, \"Power Quality Monitoring Systems for Smart Grid Networks\", 8th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2013, DOI: 10.1109/ATEE.2013.6563537, IEEE,",
+      "doi": "10.1109/ATEE.2013.6563537"
+    },
+    {
+      "id": 17,
+      "source_row": 56,
+      "year": 2014,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Evaluation Method for Harmonic Distortion and Power Losses of Photovoltaic Systems Using LabVIEW Software",
+      "reference": "Pădure, Paul; Haraguța, Cristinel Ioan; Vintea, Adela; Ghiță, Octavian Mihai, \"Evaluation Method for Harmonic Distortion and Power Losses of Photovoltaic Systems Using LabVIEW Software\", 49th International Universities' Power Engineering Conference (UPEC), Cluj-Napoca, 2014, pp. 1–6, DOI: 10.1109/UPEC.2014.6934827, IEEE, WOS:000364087800215.",
+      "doi": "10.1109/UPEC.2014.6934827"
+    },
+    {
+      "id": 18,
+      "source_row": 57,
+      "year": 2014,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Client-server Measurement System Using LabVIEW for Educational Use",
+      "reference": "Vintea, Adela; Schiopu, Paul; Ghiță, Octavian Mihai; Grigorescu, Sorin Dan, \"Client-server Measurement System Using LabVIEW for Educational Use\", 2014 International Conference and Exposition on Electrical and Power Engineering (EPE), Iași, 2014, DOI: 10.1109/ICEPE.2014.6969895, IEEE, WOS:000353565300032.",
+      "doi": "10.1109/ICEPE.2014.6969895"
+    },
+    {
+      "id": 19,
+      "source_row": 58,
+      "year": 2014,
+      "category": "WoS / IEEE Xplore — journals",
+      "title": "Optimal Model for Efficiency of Reengineering the Independent Power Grids",
+      "reference": "Vintea, Adela; Schiopu, Paul; Ghiță, Octavian Mihai, \"Optimal Model for Efficiency of Reengineering the Independent Power Grids\", 2014 6th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), 2014, DOI: 10.1109/ECAI.2014.7090223, IEEE, WoS/ISI.",
+      "doi": "10.1109/ECAI.2014.7090223"
+    },
+    {
+      "id": 20,
+      "source_row": 61,
+      "year": 2025,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Predictive Maintenance Procedure for Industrial Equipment Using Artificial Intelligence",
+      "reference": "Sandu, Ramona-Maria; Stanculescu, Marilena; Ghita, Octavian; Cazacu, Emil; Drosu, Oana \"Predictive Maintenance Procedure for Industrial Equipment Using Artificial Intelligence\", IEEE, 2025, ISSN 1843-8571, ISBN 979-8-3315-2647-4, DOI: 10.1109/ATEE66006.2025.11299951, WOS: WOS:001741236900085",
+      "doi": "10.1109/ATEE66006.2025.11299951"
+    },
+    {
+      "id": 21,
+      "source_row": 62,
+      "year": 2026,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Ghiulnar-Yelda Cherim; Octavian-Mihai Ghita; Cristina-Gabriela Saracin; Adrian-Alin Toader Enhanced Cyber Resilienc…",
+      "reference": "Ghiulnar-Yelda Cherim; Octavian-Mihai Ghita; Cristina-Gabriela Saracin; Adrian-Alin Toader Enhanced Cyber Resilience in Critical Power Infrastructure: A Hybrid Predictive and Reactive Detection Architecture for SCADA/IIoT Environments 2026 2nd International Symposium on AI-Driven Engineering Systems (ISADES) DOI: 10.1109/ISADES69945.2026 19-20 June 2026",
+      "doi": "10.1109/ISADES69945.2026"
+    },
+    {
+      "id": 22,
+      "source_row": 63,
+      "year": 2015,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Design of a Current Sensor Based on Optical Fibers",
+      "reference": "Potlog, Sabina; Stanciu, Marcel; Ghiță, Octavian Mihai; Vintea, Adela, \"Design of a Current Sensor Based on Optical Fibers\", 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2015, pp. 961–964, ISSN 2068-7966, IEEE, WOS:000368159800179.",
+      "doi": null
+    },
+    {
+      "id": 23,
+      "source_row": 64,
+      "year": 2015,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Safety Measures in Testing Aircraft Wheeled Parts",
+      "reference": "Pădure, Paul; Vintea, Adela; Ghiță, Octavian Mihai, \"Safety Measures in Testing Aircraft Wheeled Parts\", 2015 7th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), București, 2015, DOI: 10.1109/ECAI.2015.7301198, IEEE, WOS:000370971100063.",
+      "doi": "10.1109/ECAI.2015.7301198"
+    },
+    {
+      "id": 24,
+      "source_row": 65,
+      "year": 2016,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Coaxial Linear Motor for Electromagnetic Launchers",
+      "reference": "Grigorescu, Sorin Dan; Crăciunescu, Aurelian; Păturcă, Sanda Victorinne; Codreanu, L.; Andrei, Horia; Cepișcă, Costin; Serițan, George; Ghiță, Octavian Mihai; Argatu, Florin, \"Coaxial Linear Motor for Electromagnetic Launchers\", The Scientific Bulletin of Electrical Engineering Faculty, Vol. 1, 2016, DOI: 10.1515/SBEEF-2016-0016.",
+      "doi": "10.1515/SBEEF-2016-0016"
+    },
+    {
+      "id": 25,
+      "source_row": 66,
+      "year": 2016,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Risk Analysis and Optimal Model for Efficiency of Reengineering the Independent Power Grids",
+      "reference": "Vintea, Adela; Schiopu, Paul; Ghiță, Octavian Mihai, \"Risk Analysis and Optimal Model for Efficiency of Reengineering the Independent Power Grids\", Studies in Systems, Decision and Control, 2016, pp. 211–222, DOI: 10.1007/978-3-319-32525-5_12, Springer.",
+      "doi": "10.1007/978-3-319-32525-5_12"
+    },
+    {
+      "id": 26,
+      "source_row": 67,
+      "year": 2017,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Solution for Inspection of Power Energy Equipment Using Augmented Reality",
+      "reference": "Ghiță, Octavian Mihai; Grigorescu, Sorin Dan; Andrei, Horia; Călin, Nicoleta, \"Solution for Inspection of Power Energy Equipment Using Augmented Reality\", The Scientific Bulletin of Electrical Engineering Faculty, POLITEHNICA București, 2017, DOI: 10.1515/SBEEF-2016-0007.",
+      "doi": "10.1515/SBEEF-2016-0007"
+    },
+    {
+      "id": 27,
+      "source_row": 68,
+      "year": 2017,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Use of Pedagogical Agents to Build Multiple Choice Equations for an Electric Workshop Based on LabVIEW",
+      "reference": "Grigorescu, Sorin Dan; Cepișcă, Costin; Păturcă, Sanda Victorinne; Ghiță, Octavian Mihai; Serițan, George; Argatu, Florin; Adochiei, Felix; Bănică, Cosmin, \"Use of Pedagogical Agents to Build Multiple Choice Equations for an Electric Workshop Based on LabVIEW\", 2017 10th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2017, pp. 919–924, DOI: 10.1109/ATEE.2017.7905106, IEEE, WOS:000403399400178.",
+      "doi": "10.1109/ATEE.2017.7905106"
+    },
+    {
+      "id": 28,
+      "source_row": 69,
+      "year": 2018,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Innovative System for Development and Analysing Sensors Integrated in the Airframe to Determine Losses on High-Voltage Lines",
+      "reference": "Costea, Ilona; Bădescu, Iulian; Ghiță, Octavian Mihai; Bănică, Andrei, \"Innovative System for Development and Analysing Sensors Integrated in the Airframe to Determine Losses on High-Voltage Lines\", 2018 41st International Spring Seminar on Electronics Technology (ISSE), 2018, DOI: 10.1109/ISSE.2018.8443657, IEEE, WOS:000449866600031.",
+      "doi": "10.1109/ISSE.2018.8443657"
+    },
+    {
+      "id": 29,
+      "source_row": 70,
+      "year": 2021,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Processing Images Obtained from UAVs for Preserving Contours in Order to Classify Shapes",
+      "reference": "Dumitrescu, Cătălin; Costea, Ilona; Ghiță, Octavian Mihai; Bănică, Cosmin Karl, \"Processing Images Obtained from UAVs for Preserving Contours in Order to Classify Shapes\", 2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2021, DOI: 10.1109/ATEE52255.2021.9425071, IEEE, WOS:000676164800016.",
+      "doi": "10.1109/ATEE52255.2021.9425071"
+    },
+    {
+      "id": 30,
+      "source_row": 71,
+      "year": 2021,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Experiments on Extending the Flight Regimes of Electrically Powered Multi-engine Drones Using Automatic Loading Systems",
+      "reference": "Pleșca, Vasile; Ghiță, Octavian Mihai; Costea, Ilona Mădălina; Bănică, Cosmin Karl; Mihalache, Ioan Dan; Neculiță, A.; Bănică, Luiza Diana, \"Experiments on Extending the Flight Regimes of Electrically Powered Multi-engine Drones Using Automatic Loading Systems\", 2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE), București, 2021, DOI: 10.1109/ATEE52255.2021.9425251, IEEE.",
+      "doi": "10.1109/ATEE52255.2021.9425251"
+    },
+    {
+      "id": 31,
+      "source_row": 72,
+      "year": 2023,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "Power Systems Assisted by Hydrogen-Based Fuel Cells",
+      "reference": "Robu, Andreea; Ghiță, Octavian Mihai; Niculae, Elena Alexandra; Pleșca, Adrian; Bănică, Luiza, \"Power Systems Assisted by Hydrogen-Based Fuel Cells\", EMERG – Energy Environment Efficiency Resources Globalization, Vol. IX, Issue 4/2023, pp. 108–123, 2023, DOI: 10.37410/EMERG.2023.4.09, ISSN 2668-7003, ISSN-L 2457-5011.",
+      "doi": "10.37410/EMERG.2023.4.09"
+    },
+    {
+      "id": 32,
+      "source_row": 73,
+      "year": 2023,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "R. Porumb, M. Arhip-Calin, C. Marculescu, G. Seritan, O. Ghita Increasing customers resilience with modular hydroge…",
+      "reference": "R. Porumb, M. Arhip-Calin, C. Marculescu, G. Seritan, O. Ghita Increasing customers resilience with modular hydrogen-based supply modules Emerg 2023 Volume IX, Issue 4/2023, pp 124 – 138, DOI: 10.37410/EMERG.2023.4.10",
+      "doi": "10.37410/EMERG.2023.4.10"
+    },
+    {
+      "id": 33,
+      "source_row": 74,
+      "year": 2007,
+      "category": "WoS / IEEE Xplore — proceedings",
+      "title": "CEPISCA, C., GRIGORESCU, S. D., PREDESCU, C., GHIŢǍ, O.M., ARGATU F.,’’Electric Networks Harmonic Pollution Due to…",
+      "reference": "CEPISCA, C., GRIGORESCU, S. D., PREDESCU, C., GHIŢǍ, O.M., ARGATU F.,’’Electric Networks Harmonic Pollution Due to Large Burden in Electrical Metallurgy Industry’’ Conferinta AMCSIT Brasov Octombrie 2007",
+      "doi": null
+    },
+    {
+      "id": 34,
+      "source_row": 87,
+      "year": 2006,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., KANOVITS, C., Implementing an alert system for water floods taking into account sustainable developme…",
+      "reference": "GHIŢĂ, O. M., KANOVITS, C., Implementing an alert system for water floods taking into account sustainable development, Bull. Univ. Politehnica din Bucureşt, Vol. 68, Seria C, Nr.1, 2006, pg. 75 - 84. (articol indexat Google Scholar)",
+      "doi": null
+    },
+    {
+      "id": 35,
+      "source_row": 88,
+      "year": 2024,
+      "category": "International databases (BDI)",
+      "title": "Efstathios FIORENTIS, Irina VÎLCIU, Octavian Mihai GHIȚĂ, Laurentiu LIPAN, Bogdan-Adrian ENACHE - PV CONTAINER FOR…",
+      "reference": "Efstathios FIORENTIS, Irina VÎLCIU, Octavian Mihai GHIȚĂ, Laurentiu LIPAN, Bogdan-Adrian ENACHE - PV CONTAINER FOR GREEN ENERGY PRODUCTION U.P.B. Sci. Bull., Series C, Vol. 86, Iss. 2, 2024 ISSN 2286-3540",
+      "doi": null
+    },
+    {
+      "id": 36,
+      "source_row": 89,
+      "year": 2006,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., SAMFIROIU D., Neliniarităţi ale convertoarelor analog-numerice şi numeric-analogice utilizate în măsu…",
+      "reference": "GHIŢĂ, O. M., SAMFIROIU D., Neliniarităţi ale convertoarelor analog-numerice şi numeric-analogice utilizate în măsurările electrice, EEA Electrotehnica, 54, Nr. 2, 2006, pg. 22 – 27 (articol indexat Google Scholar, Scopus).",
+      "doi": null
+    },
+    {
+      "id": 37,
+      "source_row": 90,
+      "year": 2005,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., Fenomene specifice în mǎsurǎrile cu traductoare tensometrice rezistive – TTR, EEA Electrotehnica, 53…",
+      "reference": "GHIŢĂ, O. M., Fenomene specifice în mǎsurǎrile cu traductoare tensometrice rezistive – TTR, EEA Electrotehnica, 53, Nr.4, 2005, pg. 23 – 30 (articol indexat Google Scholar, Scopus)..",
+      "doi": null
+    },
+    {
+      "id": 38,
+      "source_row": 91,
+      "year": 2005,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., Influenţa histerezisului mecanic asupra sensibilitǎţii traductoarelor tensometrice metalice, EEA Elec…",
+      "reference": "GHIŢĂ, O. M., Influenţa histerezisului mecanic asupra sensibilitǎţii traductoarelor tensometrice metalice, EEA Electrotehnica, 53, Nr. 3, 2005, pg.50 – 54 (articol indexat Google Scholar, Scopus",
+      "doi": null
+    },
+    {
+      "id": 39,
+      "source_row": 92,
+      "year": 2001,
+      "category": "International databases (BDI)",
+      "title": "GHIŢǍ, O.,M., SIMION, V., PANTELIMON, B., Tipuri de fibre optice utilizate in sisteme de măsură cu fibre optice, Bu…",
+      "reference": "GHIŢǍ, O.,M., SIMION, V., PANTELIMON, B., Tipuri de fibre optice utilizate in sisteme de măsură cu fibre optice, Buletinul ştiinţific al Universităţii din Pitesti, nr.1 pag. 174-179, Piteşti 2001, Seria Metrologie, Sisteme de Măsurare.",
+      "doi": null
+    },
+    {
+      "id": 40,
+      "source_row": 93,
+      "year": 2009,
+      "category": "International databases (BDI)",
+      "title": "The Environment And Industry",
+      "reference": "S. GRIGORESCU, S. IONESCU, O. GHITA, I. GHITA - Evaluation of Energetic Potential of Hydroelectric Dam Lakes - INCD ECOIND – INTERNATIONAL SYMPOSIUM – SIMI 2009 - “The Environment And Industry”.",
+      "doi": null
+    },
+    {
+      "id": 41,
+      "source_row": 94,
+      "year": 2009,
+      "category": "International databases (BDI)",
+      "title": "The Environment And Industry",
+      "reference": "S. GRIGORESCU, S. IONESCU, O. GHITA, Ileana GHITA - System monitoring energy quality for wind power generators - INCD ECOIND – INTERNATIONAL SYMPOSIUM – SIMI 2009 - “The Environment And Industry”.",
+      "doi": null
+    },
+    {
+      "id": 42,
+      "source_row": 95,
+      "year": 2004,
+      "category": "International databases (BDI)",
+      "title": "Influence of the supply source frequency about Equivalent Scheme of the Three phase Induction motors",
+      "reference": "GHITA, C., ILINA, D.I., GHIŢǍ, O.M. “Influence of the supply source frequency about Equivalent Scheme of the Three phase Induction motors” International Symposium ATEE 2004 Politehnica University of Bucharest November 25, 2004 Bucharest Romania, section 3, Electrical Machines, paper no.11 ISBN: 973-7728-31-9",
+      "doi": null
+    },
+    {
+      "id": 43,
+      "source_row": 96,
+      "year": 2001,
+      "category": "International databases (BDI)",
+      "title": "Determinarea parametrilor rotorici ai motorului asincron utilizand achizitia de date",
+      "reference": "GHIŢǍ, O.M., “Determinarea parametrilor rotorici ai motorului asincron utilizand achizitia de date” Simpozionul Internaţional ‘Universitaria Ropet 2001’ pag. 98 – 101, Petrosani 2001",
+      "doi": null
+    },
+    {
+      "id": 44,
+      "source_row": 97,
+      "year": 2001,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M. « Asupra metodelor de compensare a erorilor în schemele de mǎsurare cu traductoare tensometrice, Simpo…",
+      "reference": "GHIŢĂ, O. M. « Asupra metodelor de compensare a erorilor în schemele de mǎsurare cu traductoare tensometrice, Simpozionul Internaţional ROPET 2001, Petroşani, 18 – 20 oct 2001, Vol.1, pag. 102 - 104.",
+      "doi": null
+    },
+    {
+      "id": 45,
+      "source_row": 98,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Aspects concerning the construction of a high stability microphone using electrets",
+      "reference": "GHIŢǍ, O.M., BANICA, C., SERITAN G., - “ Aspects concerning the construction of a high stability microphone using electrets” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 37 – 40.",
+      "doi": null
+    },
+    {
+      "id": 46,
+      "source_row": 99,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Mechanical histeresis cycle for strain gauges",
+      "reference": "GHIŢǍ, O.M., PANTELIMON B., SIMION, V. – “Mechanical histeresis cycle for strain gauges” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 45-49.",
+      "doi": null
+    },
+    {
+      "id": 47,
+      "source_row": 100,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Smart temperature transducer connected directly to computer",
+      "reference": "PETRE, V., STANCIU, M., ILIE, L., GHIŢǍ, O.M., - “Smart temperature transducer connected directly to computer” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 85-89.",
+      "doi": null
+    },
+    {
+      "id": 48,
+      "source_row": 101,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Errors source in electrical power and energy measurements",
+      "reference": "SERITAN, G., BǍNICǍ, C., GHIŢǍ, O.M. –“Errors source in electrical power and energy measurements” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 107 – 110.",
+      "doi": null
+    },
+    {
+      "id": 49,
+      "source_row": 102,
+      "year": 1999,
+      "category": "International databases (BDI)",
+      "title": "Măsurarea directa a cuplului electromagnetic la maşinile electrice",
+      "reference": "GHITA, C., GHIŢǍ, O. M., GIURGEA, S.,-“Măsurarea directa a cuplului electromagnetic la maşinile electrice” Sielmec’99, Chişinău, 1999, vol III, pag.19 – 23 (articol indexat BNRM clasificare 621.3(063))",
+      "doi": null
+    },
+    {
+      "id": 50,
+      "source_row": 103,
+      "year": 1999,
+      "category": "International databases (BDI)",
+      "title": "Tehnologia de aplicare a marcilor tensometrice pe suprafeţele pieselor",
+      "reference": "GHIŢǍ, O.M., PANTELIMON, B. – “Tehnologia de aplicare a marcilor tensometrice pe suprafeţele pieselor” Sielmec’99 Chişinău, 1999, vol. III, pag.31 – 35 (articol indexat BNRM clasificare 621.3(063))",
+      "doi": null
+    },
+    {
+      "id": 51,
+      "source_row": 104,
+      "year": 1997,
+      "category": "International databases (BDI)",
+      "title": "Short - Circuit/Overload Protection of Induction Motor using a Calorimetric Method",
+      "reference": "GHITA, C., SCHUSTER, H. G., GHIŢǍ, O.M., GHITA, Z., “Short - Circuit/Overload Protection of Induction Motor using a Calorimetric Method”, Proceedings of the International Conference on Power Electronics Drives and Motion Control”, PCIM'97, June 10 - 12, 1997, Nurnberg, Germania, Vol. Intelligent Motion, pag. 317 – 32. (articol indexat BDI)",
+      "doi": null
+    },
+    {
+      "id": 52,
+      "source_row": 105,
+      "year": 2008,
+      "category": "International databases (BDI)",
+      "title": "Evaluation of Energetic Potential of Romanian Hydroelectric Dams",
+      "reference": "TUDORACHE T., GRIGORESCU S.D., GHITA O. M. “Evaluation of Energetic Potential of Romanian Hydroelectric Dams” in Advanced Topics in Electrical Engineering - ATEE’2008”, Politehnica University of Bucharest, Romania",
+      "doi": null
+    },
+    {
+      "id": 53,
+      "source_row": 106,
+      "year": 2006,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O., M., Harmonic filtering techniques for electrical networks, International Symposium Advanced Measurement…",
+      "reference": "GHIŢĂ, O., M., Harmonic filtering techniques for electrical networks, International Symposium Advanced Measurement Methods, Bucharest, Romania, 22 June, 2006, Vol. 1, pg 21 – 23.",
+      "doi": null
+    },
+    {
+      "id": 54,
+      "source_row": 107,
+      "year": 1998,
+      "category": "International databases (BDI)",
+      "title": "Erori sistematice si aleatoare la măsurările cu mărci tensometrice metalice",
+      "reference": "GHIŢǍ, O.M., PANTELIMON, Brânduşa, \"Erori sistematice si aleatoare la măsurările cu mărci tensometrice metalice \" , Symposium „Advanced Topics in Electrical Engineering - ATEE '98, Universitatea POLITEHNICA din Bucureşti, 1998, vol.1, pag. 56 – 60.",
+      "doi": null
+    },
+    {
+      "id": 55,
+      "source_row": 108,
+      "year": 2005,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., Sisteme moderne de monitorizare a parametrilor de mediu, Simpozionul Naţional Inpactul acquisu-ului c…",
+      "reference": "GHIŢĂ, O. M., Sisteme moderne de monitorizare a parametrilor de mediu, Simpozionul Naţional Inpactul acquisu-ului comunitar privind mediul asupra tehnologiilor şi echipamentelor, 22 – 23 august 2005, AGIGEA, ROMANIA, Vol. 1, pag. 31 – 33.",
+      "doi": null
+    },
+    {
+      "id": 56,
+      "source_row": 109,
+      "year": 2008,
+      "category": "International databases (BDI)",
+      "title": "Materials for Electrical Engineering",
+      "reference": "GRIGORESCU,S.D, CEPISCA, C, GHITA,M.,O.,ANGHELESCU.V.,NEACSU.P. Oil paper insulation evaluation using an expert system In: Proceedings of Joint International Conference “Materials for Electrical Engineering”, Bucharest, Romania, 16-17 June, 2008, p.426-430, ISBN 978-606-521-028-8 (articol indexat INSPEC, Google Scholar)",
+      "doi": null
+    },
+    {
+      "id": 57,
+      "source_row": 110,
+      "year": 1997,
+      "category": "International databases (BDI)",
+      "title": "Finding the Mechanical Characteristics of 3 - Phased Induction Motor Operating în Transitory State, Proceedings of the International Conference on Power Electronics Drives and Motion Control",
+      "reference": "GHITA, C., SCHUSTER, H. G., VLAICU, C., GHIŢǍ, O.M., “Finding the Mechanical Characteristics of 3 - Phased Induction Motor Operating în Transitory State, Proceedings of the International Conference on Power Electronics Drives and Motion Control ”, PCIM'97, June 10 - 12, 1997, Nurnberg, Germania, Vol. Intelligent Motion, pag. 323 - 328. (articol indexat BDI)",
+      "doi": null
+    },
+    {
+      "id": 58,
+      "source_row": 111,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Advanced Topics in Electrical Engineering - ATEE’2000",
+      "reference": "BANICA, C., GHIŢǍ, O.M., SERITAN, G., Optimal aquisition for ECG signal with real time processing” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 15 – 19.",
+      "doi": null
+    },
+    {
+      "id": 59,
+      "source_row": 112,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Prediction of inertial moment and mechanical losses for a rotational system",
+      "reference": "GHIŢǍ, O.M., STANCIU M., PETRE V., - “ Prediction of inertial moment and mechanical losses for a rotational system” - International Symposium „Advanced Topics in Electrical Engineering - ATEE’2000”, Politehnica University of Bucharest, Romania, 8 Dec. 2000, section Metrology, pag. 41 - 44",
+      "doi": null
+    },
+    {
+      "id": 60,
+      "source_row": 113,
+      "year": 2003,
+      "category": "International databases (BDI)",
+      "title": "Making-off three phase voltage system using two single phase transformers",
+      "reference": "GHITA, C., ILINA, D.I., GHIŢǍ, O.M. “Making-off three phase voltage system using two single phase transformers” International Conference Energy – Environment CIEM – 2003, Bucharest Romania, 22-25 oct. 2003, vol.1, pg. 197-202.",
+      "doi": null
+    },
+    {
+      "id": 61,
+      "source_row": 114,
+      "year": 2003,
+      "category": "International databases (BDI)",
+      "title": "The influence of non-symetric loads over the energetic parameter of electrical three phase transformers",
+      "reference": "GHITA, C., ILINA, D.I., GHIŢǍ, O.M. “ The influence of non-symetric loads over the energetic parameter of electrical three phase transformers” International Conference Energy – Environment CIEM – 2003, Bucharest Romania, 22-25 oct. 2003, vol.1, pg. 191-196 (articol indexat Google Scholar).",
+      "doi": null
+    },
+    {
+      "id": 62,
+      "source_row": 115,
+      "year": 2000,
+      "category": "International databases (BDI)",
+      "title": "Fixarea traductoarelor tensometrice prin lianti. Tehnologii de fixare",
+      "reference": "GHIŢǍ, O.M., “Fixarea traductoarelor tensometrice prin lianti. Tehnologii de fixare”, Sesiunea de Comunicari Stiintifice „CONVERSIA ENERGIEI SI ELECTROTEHNOLOGII”, ICPE, Bucureşti, 22 – 23 iunie 2000, Sectiunea B, Componente electromecanice conventionale",
+      "doi": null
+    },
+    {
+      "id": 63,
+      "source_row": 116,
+      "year": 2007,
+      "category": "International databases (BDI)",
+      "title": "CEPISCA, C., GRIGORESCU, S. D., PREDESCU, C., GHIŢǍ, O.M., ARGATU F.,’’Electric Networks Harmonic Pollution Due to…",
+      "reference": "CEPISCA, C., GRIGORESCU, S. D., PREDESCU, C., GHIŢǍ, O.M., ARGATU F.,’’Electric Networks Harmonic Pollution Due to Large Burden in Electrical Metallurgy Industry’’ Conferinta AMCSIT Brasov Octombrie 2007",
+      "doi": null
+    },
+    {
+      "id": 64,
+      "source_row": 117,
+      "year": 2007,
+      "category": "International databases (BDI)",
+      "title": "Soluţii moderne de realizare a unei cabine de monitorizare a activităţilor de foraj pe platformele petroliere",
+      "reference": "Grigorescu S.,D.,, GHIŢĂ O.M., „Soluţii moderne de realizare a unei cabine de monitorizare a activităţilor de foraj pe platformele petroliere” Conference of Metrology & Measurement Systems METSIM 2007.",
+      "doi": null
+    },
+    {
+      "id": 65,
+      "source_row": 118,
+      "year": 2009,
+      "category": "International databases (BDI)",
+      "title": "Sigma delta converters used in design of real-time energy-meters",
+      "reference": "GRIGORESCU S.D., CEPISCA C., GHITA O.,COVRIG M. “Sigma delta converters used in design of real-time energy-meters” in Metrology & Measurement Systems - METSIM 2009 Politehnica University of Bucharest, Romania.",
+      "doi": null
+    },
+    {
+      "id": 66,
+      "source_row": 119,
+      "year": 2009,
+      "category": "International databases (BDI)",
+      "title": "System monitoring energy quality for wind power generators",
+      "reference": "GRIGORESCU S. D., CEPISCA C., GHITA C., GHITA O. „System monitoring energy quality for wind power generators” in Metrology & Measurement Systems - METSIM 2009 Politehnica University of Bucharest, Romania.",
+      "doi": null
+    },
+    {
+      "id": 67,
+      "source_row": 120,
+      "year": 2010,
+      "category": "International databases (BDI)",
+      "title": "Strategii pentru realizarea monitorizarii online a parametrilor electrici in retele electrice inteligente de tip smart grid",
+      "reference": "Ghiţă O.M., Grigorescu S.D., Popescu M.O., G.C. Seriţan „Strategii pentru realizarea monitorizarii online a parametrilor electrici in retele electrice inteligente de tip smart grid” – Retele electrice inteligente. Solutii de finantare a investitiilor – Conferinta Transelectrica Bran Noiembrie 2010 ISBN 978-973-1718-18-7",
+      "doi": null
+    },
+    {
+      "id": 68,
+      "source_row": 121,
+      "year": 2009,
+      "category": "International databases (BDI)",
+      "title": "Strategies for energy quality monitoring in decision-making network nodes",
+      "reference": "GRIGORESCU S. D., CEPISCA C., GHITA O. „Strategies for energy quality monitoring in decision-making network nodes” in Metrology & Measurement Systems - METSIM 2009 Politehnica University of Bucharest, Romania .",
+      "doi": null
+    },
+    {
+      "id": 69,
+      "source_row": 122,
+      "year": null,
+      "category": "International databases (BDI)",
+      "title": "Energy parameters quality monitoring in decision-making network nodes",
+      "reference": "GRIGORESCU S.D., GHIŢĂ O.M., „Energy parameters quality monitoring in decision-making network nodes” Conferinta CEEX 008 Brasov, Romania.",
+      "doi": null
+    },
+    {
+      "id": 70,
+      "source_row": 123,
+      "year": 2007,
+      "category": "International databases (BDI)",
+      "title": "GHITĂ O. M., SĂRĂCIN C. G., SĂRĂCIN M. Sistem de monitorizare a parametrilor electrici ai unui generator eolian Con…",
+      "reference": "GHITĂ O. M., SĂRĂCIN C. G., SĂRĂCIN M. Sistem de monitorizare a parametrilor electrici ai unui generator eolian Conference of Metrology & Measurement Systems METSIM 2007",
+      "doi": null
+    },
+    {
+      "id": 71,
+      "source_row": 124,
+      "year": 2006,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., SAMFIROIU D., ROTAR, G., New Method for Determining the Parameters of Low Frequency Harmonics in a Sa…",
+      "reference": "GHIŢĂ, O. M., SAMFIROIU D., ROTAR, G., New Method for Determining the Parameters of Low Frequency Harmonics in a Sample Electric Signal, International Conference Scientific Computing in Electrical Engineering – SCEE 2006, 17 – 22 sept., Sinaia, ROMANIA, Vol. Mathematical and Computational Methods, pag. 133 – 135.",
+      "doi": null
+    },
+    {
+      "id": 72,
+      "source_row": 125,
+      "year": 2023,
+      "category": "International databases (BDI)",
+      "title": "Andrei Decebal ENGHEȘ, Adelina Rodica BORDIANU, Octavian Mihai GHIȚĂ THE ECONOMIC BENEFITS OF SMART HOMES U.P.B. Sc…",
+      "reference": "Andrei Decebal ENGHEȘ, Adelina Rodica BORDIANU, Octavian Mihai GHIȚĂ THE ECONOMIC BENEFITS OF SMART HOMES U.P.B. Sci. Bull., Series C, Vol. 85, Iss. 1, 2023 ISSN 2286-3540",
+      "doi": null
+    },
+    {
+      "id": 73,
+      "source_row": 126,
+      "year": 2006,
+      "category": "International databases (BDI)",
+      "title": "GHIŢĂ, O. M., Calculul erorilor de amplitudine şi de fazǎ la transformatoarele de curent, EEA Electrotehnica, 54, N…",
+      "reference": "GHIŢĂ, O. M., Calculul erorilor de amplitudine şi de fazǎ la transformatoarele de curent, EEA Electrotehnica, 54, Nr.3, 2006, pg. 45 – 48 (articol indexat Google Scholar).",
+      "doi": null
+    }
+  ],
+  "projects": [
+    {
+      "source_row": 148,
+      "category": "International / industry collaboration",
+      "title": "Innovative technology for hydrogen production from renewable energy sources, based on AI, with optimized cost for environmental…",
+      "description": "Innovative technology for hydrogen production from renewable energy sources, based on AI, with optimized cost for environmental applications",
+      "period": ""
+    },
+    {
+      "source_row": 154,
+      "category": "National competitive and innovation grants",
+      "title": "Mobile platform with high local and AI-controlled processing capabilities to extend and ensure continuity of IT&C services (SMI…",
+      "description": "Mobile platform with high local and AI-controlled processing capabilities to extend and ensure continuity of IT&C services (SMIRTIC) 2020-2025",
+      "period": "2020-2025"
+    },
+    {
+      "source_row": 155,
+      "category": "National competitive and innovation grants",
+      "title": "Optimizarea consumului energetic și creșterea fiabilității stațiilor de pompare utilizate în irigații prin dezvoltarea și trans…",
+      "description": "Optimizarea consumului energetic și creșterea fiabilității stațiilor de pompare utilizate în irigații prin dezvoltarea și transferul tehnologic a unui sistem numeric de acționare a motoarelor — tip/finanțare: contract de cercetare IMPACT",
+      "period": ""
+    },
+    {
+      "source_row": 156,
+      "category": "National competitive and innovation grants",
+      "title": "Cabina de comandă pentru monitorizarea și controlul proceselor de foraj sau industriale cu grad ridicat de risc",
+      "description": "Cabina de comandă pentru monitorizarea și controlul proceselor de foraj sau industriale cu grad ridicat de risc — tip/finanțare: contract PNCDI 2 Inovare, nr. 55/2007; perioada: 2007–2009; calitatea: responsabil științific UPB",
+      "period": "2007–2009"
+    },
+    {
+      "source_row": 157,
+      "category": "National competitive and innovation grants",
+      "title": "Cercetări privind interconectarea subansamblelor unui sistem de conversie eolian–electrică a energiei, în scopul creșterii efic…",
+      "description": "Cercetări privind interconectarea subansamblelor unui sistem de conversie eolian–electrică a energiei, în scopul creșterii eficienței, pentru o aplicație specifică — tip/finanțare: contract CEEX, nr. 168/20.07.2006; instituții: UPB-ECEE; perioada: 2006; calitatea: responsabil științific UPB.",
+      "period": ""
+    },
+    {
+      "source_row": 158,
+      "category": "National competitive and innovation grants",
+      "title": "Computerized integrated for supply and protection for plant automation and remote operation of transformer stations and electri…",
+      "description": "Computerized integrated for supply and protection for plant automation and remote operation of transformer stations and electricity distribution networks — tip/finanțare: program PNCDI2 Inovare, nr. 179/2008;",
+      "period": ""
+    },
+    {
+      "source_row": 159,
+      "category": "National competitive and innovation grants",
+      "title": "Analysis of the impact of coupling distributed network of renewable energy generators using an expert system for power quality…",
+      "description": "Analysis of the impact of coupling distributed network of renewable energy generators using an expert system for power quality monitoring — tip/finanțare: contract PNCDI2, nr. 21050/2007",
+      "period": ""
+    },
+    {
+      "source_row": 160,
+      "category": "National competitive and innovation grants",
+      "title": "Determining the strategic reserve of water reservoirs with telematic methods and analysis of the degree of clogging",
+      "description": "Determining the strategic reserve of water reservoirs with telematic methods and analysis of the degree of clogging — tip/finanțare: contract CEEX, nr. 101/2005",
+      "period": ""
+    },
+    {
+      "source_row": 161,
+      "category": "National competitive and innovation grants",
+      "title": "Intelligent decision-making techniques to manage power flow in electricity transmission networks",
+      "description": "ntelligent decision-making techniques to manage power flow in electricity transmission networks — tip/finanțare: contract CEEX, nr. 196/2006",
+      "period": ""
+    },
+    {
+      "source_row": 162,
+      "category": "National competitive and innovation grants",
+      "title": "Electric generator with alternative power solutions destined for isolated drilling platforms",
+      "description": "Electric generator with alternative power solutions destined for isolated drilling platforms — tip/finanțare: program PNCDI2 Inovare, nr. 106/2007;",
+      "period": ""
+    },
+    {
+      "source_row": 163,
+      "category": "National competitive and innovation grants",
+      "title": "Complex monitoring equipment for high voltage electric stations",
+      "description": "Complex monitoring equipment for high voltage electric stations — tip/finanțare: program PNCDI2 Inovare, nr. 144/2008;",
+      "period": ""
+    },
+    {
+      "source_row": 164,
+      "category": "National competitive and innovation grants",
+      "title": "Soluție de eficientizare a activităților de mentenanță a echipelor din teren, folosind tehnologii de realitate augmentată și an…",
+      "description": "Soluție de eficientizare a activităților de mentenanță a echipelor din teren, folosind tehnologii de realitate augmentată și antrenare, bazate pe inteligență artificială — program: Programul Operațional Competitivitate 2014–2020; cod proiect: 129003; perioada: 2019–2022",
+      "period": "2019–2022"
+    },
+    {
+      "source_row": 165,
+      "category": "National competitive and innovation grants",
+      "title": "Platformă dinamică de gestiune, monitorizare și creștere a mobilității electrice urbane, cu integrarea unor vehicule electrice…",
+      "description": "Platformă dinamică de gestiune, monitorizare și creștere a mobilității electrice urbane, cu integrarea unor vehicule electrice inteligente, folosind tehnologii distribuite de ultimă generație — program: Programul Operațional Competitivitate 2014–2020; cod proiect: 143362; perioada: 2022–2023",
+      "period": "2022–2023"
+    },
+    {
+      "source_row": 166,
+      "category": "National competitive and innovation grants",
+      "title": "Sistem de monitorizare și inspecție avansată printr-o soluție wireless de încărcare inductivă",
+      "description": "Sistem de monitorizare și inspecție avansată printr-o soluție wireless de încărcare inductivă — program: PNCDI III; perioada: 2016–2018;",
+      "period": "2016–2018"
+    },
+    {
+      "source_row": 167,
+      "category": "National competitive and innovation grants",
+      "title": "Sistem inteligent de detecție, monitorizare și analiza în timp real a alunecărilor de teren utilizând tehnologii 4G",
+      "description": "Sistem inteligent de detecție, monitorizare și analiza în timp real a alunecărilor de teren utilizând tehnologii 4G — program: PN-III-P2-2.1-PTE-2016; parteneri: INOE 2000 INCD, Energy & Eco Concept SRL și Wing Computer Group SRL; perioada: 2016–2018",
+      "period": "2016–2018"
+    },
+    {
+      "source_row": 168,
+      "category": "National competitive and innovation grants",
+      "title": "Echipament pentru monitorizarea complexă a stațiilor electrice de înaltă tensiune – EMCSIT",
+      "description": "Echipament pentru monitorizarea complexă a stațiilor electrice de înaltă tensiune – EMCSIT — tip/finanțare: contract PNCDI2 Inovare, nr. 144/2008; perioada: 2008; calitatea: responsabil științific UPB",
+      "period": ""
+    },
+    {
+      "source_row": 169,
+      "category": "National competitive and innovation grants",
+      "title": "Instalație energetică de generație nouă destinată asigurării suportului energetic în infrastructuri critice (WISSE) 2020-2025",
+      "description": "Instalație energetică de generație nouă destinată asigurării suportului energetic în infrastructuri critice (WISSE) 2020-2025",
+      "period": "2020-2025"
+    },
+    {
+      "source_row": 173,
+      "category": "National research grants",
+      "title": "Cercetări multidisciplinare privind modelul teoretic şi experimental al unei centrale ecologice bazate pe energia valurilor marine",
+      "description": "Cercetări multidisciplinare privind modelul teoretic şi experimental al unei centrale ecologice bazate pe energia valurilor marine — tip/finanțare: grant CEEX, nr. 103, P1/103.10.2005; instituții: UPB-ECEE; perioada: 2005; calitatea: director de proiect",
+      "period": ""
+    },
+    {
+      "source_row": 174,
+      "category": "National research grants",
+      "title": "Cercetări privind măsurarea în regim dinamic a cuplului electromagnetic la mașinile electrice",
+      "description": "Cercetări privind măsurarea în regim dinamic a cuplului electromagnetic la mașinile electrice — tip/finanțare: grant ANSTI, nr. 5076; perioada: 2000–2001; calitatea: director de proiect.",
+      "period": "2000–2001"
+    },
+    {
+      "source_row": 178,
+      "category": "Applied industry research",
+      "title": "A study of compensation systems in real time reactive power in three-phase asynchronous motors networks on electric locomotives…",
+      "description": "A study of compensation systems in real time reactive power in three-phase asynchronous motors networks on electric locomotives with numerical adjustment for capacity of capacitor banks — tip/finanțare: contract de cercetare; finanțare: MCT; perioada: 1999–2001",
+      "period": "1999–2001"
+    },
+    {
+      "source_row": 179,
+      "category": "Applied industry research",
+      "title": "Reactive power compensation plants in three-phase asynchronous electric networks",
+      "description": "Reactive power compensation plants in three-phase asynchronous electric networks — tip/finanțare: contract de cercetare; finanțare: MEC; perioada: 2000–2002;",
+      "period": "2000–2002"
+    }
+  ],
+  "books": [
+    {
+      "source_row": 22,
+      "text": "Măsurarea mărimilor electrice — autori: Octavian Mihai Ghiță, Costin Cepișcă; editura: Matrix Rom, București; anul publicării: 2007; număr de pagini: 176; ISBN: 978-973-755-140-5."
+    },
+    {
+      "source_row": 23,
+      "text": "Comunicații în sisteme distribuite — autor: Octavian Mihai Ghiță; editura: Matrix Rom, București; anul publicării: 2006; număr de pagini: 180; ISBN: 973-755-063-3."
+    },
+    {
+      "source_row": 24,
+      "text": "Proiectarea și simularea circuitelor electronice cu amplificatoare operaționale — autori: Sorin Grigorescu, Costin Cepișcă, C. Vlaicu, Octavian Mihai Ghiță, D. Oancea, B. Trușcă; editura: ICPE, București; anul publicării: 2001; număr de pagini: 220; ISBN: 973-8067-33-2"
+    },
+    {
+      "source_row": 25,
+      "text": "Mesures électriques et transducteurs : travaux de laboratoire — autori: Octavian Mihai Ghiță, Brândușa Pantelimon; editura: Matrix Rom, București; anul publicării: 2014; număr de pagini: 167; ISBN: 978-606-25-0044-3."
+    },
+    {
+      "source_row": 26,
+      "text": "Instrumentație virtuală și distribuită — autori: Sorin Grigorescu, Octavian Mihai Ghiță, P. Neacșu; editura: Electra, București; anul publicării: 2007; număr de pagini: 210; ISBN: 978-973-7728-63-0."
+    },
+    {
+      "source_row": 31,
+      "text": "Cepiscă, C., Banică, C., GHIŢǍ, O.M., Seriţan, G., Dogaru, V. Măsurări electrice si sisteme de măsurare “ Îndrumar de laborator, Editura Secorex, Bucureşti 2001, 120 pag"
+    },
+    {
+      "source_row": 32,
+      "text": "Măsurări electrice și electronice. Experimentări — autori: Brândușa Pantelimon, Constantin Iliescu, Marcel-Marian Stanciu, Laurențiu Ilie, Constantin-Daniel Oancea, Octavian-Mihai Ghiță, Viorica Simion, Corneliu Buzatu; editura: Printech, București; anul publicării: 2000; ISBN: 973-652-084-6."
+    }
+  ],
+  "courses": [
+    {
+      "name": "Sisteme de Masurare",
+      "url": "https://curs.upb.ro/2025/course/view.php?id=2343",
+      "pages": 450
+    },
+    {
+      "name": "APDPI",
+      "url": "https://curs.upb.ro/2025/course/view.php?id=2433",
+      "pages": 330
+    },
+    {
+      "name": "DTP",
+      "url": "https://curs.upb.ro/2025/course/view.php?id=2504",
+      "pages": 450
+    },
+    {
+      "name": "Legislatie Metrologica",
+      "url": "https://curs.upb.ro/2025/course/view.php?id=2446",
+      "pages": 360
+    },
+    {
+      "name": "Masurari Numerice",
+      "url": "https://curs.upb.ro/2025/course/view.php?id=2345",
+      "pages": 480
+    }
+  ]
+}
